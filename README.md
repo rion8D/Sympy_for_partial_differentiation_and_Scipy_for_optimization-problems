@@ -1,19 +1,19 @@
-実行時のversion
-python 3.13.3
+# 実行時のversion  
+python 3.13.3  
 
-pip3 list >>
-contourpy       1.3.3
-cycler          0.12.1
-fonttools       4.60.1
-kiwisolver      1.4.9
-matplotlib      3.10.6
-mpmath          1.3.0
-numpy           2.3.3
-packaging       25.0
-pillow          11.3.0
-pip             25.0.1
-pyparsing       3.2.5
-python-dateutil 2.9.0.post0
-scipy           1.16.2
-six             1.17.0
-sympy           1.14.0
+pip3 list >>  
+contourpy       1.3.3  
+cycler          0.12.1  
+fonttools       4.60.1  
+kiwisolver      1.4.9  
+matplotlib      3.10.6  
+mpmath          1.3.0  
+numpy           2.3.3  
+packaging       25.0  
+pillow          11.3.0  
+pip             25.0.1  
+pyparsing       3.2.5  
+python-dateutil 2.9.0.post0  
+scipy           1.16.2  
+six             1.17.0  
+sympy           1.14.0  
